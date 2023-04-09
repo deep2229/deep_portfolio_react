@@ -2,6 +2,20 @@
     display: flex;
     align-items: center;
     justify-content:center ;
-    flex-direction: column;
+    height: 600px;
+    column-gap: 100px;
+}
+.contact{
+    display: flex;
     height: 500px;
+}
+.icon{
+    font-size: 30px!important;
+    color: aliceblue!important;
+    margin-right: 10px;
+}
+.iconContainer{
+    display: flex;
+    align-items: center;
+
 }
