@@ -1,0 +1,23 @@
+.topbar {
+    background-color: #f8f804;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    
+}
+
+.topbar>div {
+    position: absolute;
+    right: 5%;
+    display: flex;
+}
+
+.topbar li {
+    list-style-type: none;
+    margin-right: 20px;
+    color: #0a0a06!important;
+    font-weight: 700;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
